@@ -33,7 +33,7 @@ This bot automatically publishes messages to announcement channels in a specifie
 
 1. Run the bot:
    ```bash
-   python bot.py
+   python main.py
    ```
 2. The bot will listen for messages in the specified channel and automatically publish them.
 
